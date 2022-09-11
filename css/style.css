@@ -1,0 +1,46 @@
+header {
+	color: rebeccapurple;
+}
+
+/*.forza-main {
+	color: orangered;
+}*/
+
+.forza-main h1 {
+	color: forestgreen;
+}
+
+.text-main a {
+	color: darkgreen;
+}
+
+.text-main * {
+	color: crimson;
+}
+
+.text {
+	color: indigo;
+}
+
+.text a {
+	color: fuchsia;
+}
+
+#forza1,
+#forza3,
+#forza5 h2 {
+	color: navy;
+}
+
+#forza2,
+#forza4 h2 {
+	color: brown;
+}
+
+footer {
+	color: red;
+}
+
+.navigator a {
+	color: fuchsia;
+}
